@@ -4,3 +4,4 @@
 
 A script to display three alternate logos and a video when business card is scanned.
 Video downloaded from archive.org: https://archive.org/details/MacArthur_Foundation_100andChange_dQw4w9WgXcQ
+Page viewable at https://sorrel-kj.github.io/businesscard/
